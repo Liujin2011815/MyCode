@@ -4,7 +4,7 @@
 #include <ctime>
 #include "KtMAwg.h"
 
-
+// 程序运行时间：8分58秒
 // Forward references
 void catchError(char *routine, ViSession session, ViStatus status);
 
